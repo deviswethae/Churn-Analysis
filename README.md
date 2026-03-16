@@ -222,7 +222,7 @@ Personalized offers for high monthly charge users
 
 📦 Installation
 Step 1: Clone Repository
-git clone https://github.com/your-username/customer-churn-analysis.git
+git clone https://github.com/deviswethae/Churn-Analysis.git
 cd customer-churn-analysis
 Step 2: Install Dependencies
 pip install -r requirements.txt
